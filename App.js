@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
+// npx create-expo-app@latest WealthOne --template blank use this to create a new expo app
 export default function App() {
   return (
     <View style={styles.container}>
